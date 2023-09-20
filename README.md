@@ -1,1 +1,1 @@
-# Neste portfólio terá meus trabalhos que faço no projeto de iniciação científica.
+# Neste repositório terá meus trabalhos que estou produzindo no projeto de iniciação científica.
